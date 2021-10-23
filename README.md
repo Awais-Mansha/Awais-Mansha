@@ -53,6 +53,8 @@
     </td>
 </tr>
 </table>
+</br>
+
 <h3> Frameworks </h3>
 <table width="100">
 <tr>
@@ -71,6 +73,8 @@
     
 </tr>
 </table>
+</br>
+
 <h3> Development Tools </h3>
 <table width="100">
 <tr>
@@ -104,6 +108,8 @@
     
 </tr>
 </table>
+</br>
+
 <h3> Deployment Tools </h3>
 <table width="100">
 
@@ -118,6 +124,8 @@
     
 </tr>
 </table>
+</br>
+
 <h3> Learned from Platforms </h3>
 <table width="100">
 <tr>
@@ -131,6 +139,7 @@
     
 </tr>
 </table>
+</br>
 <h3> Lovely Friends </h3>
 <table width="100">
 <tr>
