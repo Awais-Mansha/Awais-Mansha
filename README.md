@@ -154,11 +154,11 @@
         <img src="https://github.com/Awais-Mansha/Awais-Mansha/blob/main/images/google.png" width="60">
     </td>
     <td align='center' width="190">
-        <img src="https://github.com/Awais-Mansha/Awais-Mansha/blob/main/images/youtube.png">
+        <img src="https://github.com/Awais-Mansha/Awais-Mansha/blob/main/images/youtube.png" width="60">
     </td>
 
      <td align='center' width="190">
-        <img src="https://github.com/Awais-Mansha/Awais-Mansha/blob/main/images/stackoverflow.png">
+        <img src="https://github.com/Awais-Mansha/Awais-Mansha/blob/main/images/stackoverflow.png" width="60">
     </td>
 
 </tr>
