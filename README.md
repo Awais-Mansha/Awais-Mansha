@@ -9,7 +9,7 @@
 <table width="100">
 <tr>
     <td align='center' width="190">
-        <img src="https://lilly021.com/wp-content/uploads/2019/09/1_j_zP74-cpvXRcs8dM_pkMQ.jpeg" width="60">
+        <img src="https://github.com/Awais-Mansha/Awais-Mansha/blob/main/images/pngwing.com.png" width="60">
     </td>
     <td align='center' width="190">
         <img src="https://blogs.vmware.com/canada/files/2018/07/Kubernetes-logo.png">
