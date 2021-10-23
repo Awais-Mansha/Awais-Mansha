@@ -81,7 +81,7 @@
 
 <tr>
          <td align='center' width="190">
-        <h3> Tools </h3>
+        <h3> Development Tools </h3>
         </td>
 </tr>
 <tr>
@@ -112,6 +112,21 @@
      <td align='center' width="190">
         <img src="https://github.com/Awais-Mansha/Awais-Mansha/blob/main/images/adobe_i.png" width="100">
     </td>
+    
+</tr>
+<tr>
+         <td align='center' width="190">
+        <h3> Deployment Tools </h3>
+        </td>
+</tr>
+<tr>
+    <td align='center' width="190">
+        <img src="https://github.com/Awais-Mansha/Awais-Mansha/blob/main/images/kubernetes.png" width="60">
+    </td>
+    <td align='center' width="190">
+        <img src="https://github.com/Awais-Mansha/Awais-Mansha/blob/main/images/docker.png">
+    </td>
+
     
 </tr>
 </table>
