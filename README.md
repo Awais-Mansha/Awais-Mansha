@@ -17,13 +17,13 @@
         <img src="https://github.com/Awais-Mansha/Awais-Mansha/blob/main/images/java.png" width="250" >
     </td>
     <td align='center' width="250">
-        <img src="https://github.com/Awais-Mansha/Awais-Mansha/blob/main/images/kotlin.png">
+        <img src="https://github.com/Awais-Mansha/Awais-Mansha/blob/main/images/kotlin.png"width="250" >
     </td>
     <td align='center' width="250">
-        <img src="https://github.com/Awais-Mansha/Awais-Mansha/blob/main/images/sql.png">
+        <img src="https://github.com/Awais-Mansha/Awais-Mansha/blob/main/images/sql.png" width="250">
     </td>
      <td align='center' width="250">
-        <img src="https://github.com/Awais-Mansha/Awais-Mansha/blob/main/images/rust.png">
+        <img src="https://github.com/Awais-Mansha/Awais-Mansha/blob/main/images/rust.png" width="250">
     </td>
     
 </tr>
