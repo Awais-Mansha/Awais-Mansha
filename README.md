@@ -164,6 +164,5 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Awais-Mansha&show_icons=true&theme=radical&count_private=true)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Awais-Mansha)](https://github.com/Awais-Mansha/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Awais-Mansha&layout=compact&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
