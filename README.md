@@ -54,4 +54,23 @@
         <img src="https://github.com/Awais-Mansha/Awais-Mansha/blob/main/images/android.png">
     </td>
 </tr>
+
+<tr>
+        <h3> Frameworks </h3>
+</tr>
+<tr>
+    <td align='center' width="190">
+        <img src="https://github.com/Awais-Mansha/Awais-Mansha/blob/main/images/spring.svg" width="60">
+    </td>
+    <td align='center' width="190">
+        <img src="https://github.com/Awais-Mansha/Awais-Mansha/blob/main/images/django.png">
+    </td>
+    <td align='center' width="190">
+        <img src="https://github.com/Awais-Mansha/Awais-Mansha/blob/main/images/asp.net_mvc.png" width="60">
+    </td>
+     <td align='center' width="190">
+        <img src="https://github.com/Awais-Mansha/Awais-Mansha/blob/main/images/flask.png" width="100">
+    </td>
+    
+</tr>
 </table>
