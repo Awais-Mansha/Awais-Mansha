@@ -156,3 +156,13 @@
     </td>
 </tr>
 </table>
+
+<br />
+<br />
+
+<h2><i>⚙️ GitHub Analytics</i></h2>
+
+## Contri
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Awais-Mansha)](https://github.com/anuraghazra/github-readme-stats)
+
+
