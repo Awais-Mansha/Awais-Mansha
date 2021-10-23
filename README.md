@@ -27,6 +27,7 @@
     </td>
     
 </tr>
+       </br>
 <tr>
     <td align='center' width="190">
         <img src="https://github.com/Awais-Mansha/Awais-Mansha/blob/main/images/python.png" width="60">
