@@ -77,4 +77,41 @@
     </td>
     
 </tr>
+
+
+<tr>
+         <td align='center' width="190">
+        <h3> Tools </h3>
+        </td>
+</tr>
+<tr>
+    <td align='center' width="190">
+        <img src="https://github.com/Awais-Mansha/Awais-Mansha/blob/main/images/xcode.png" width="60">
+    </td>
+    <td align='center' width="190">
+        <img src="https://github.com/Awais-Mansha/Awais-Mansha/blob/main/images/vs_code.png">
+    </td>
+    <td align='center' width="190">
+        <img src="https://github.com/Awais-Mansha/Awais-Mansha/blob/main/images/vs.png" width="60">
+    </td>
+     <td align='center' width="190">
+        <img src="https://github.com/Awais-Mansha/Awais-Mansha/blob/main/images/postman.png" width="100">
+    </td>
+    
+</tr>
+<tr>
+    <td align='center' width="190">
+        <img src="https://github.com/Awais-Mansha/Awais-Mansha/blob/main/images/mysql.png" width="60">
+    </td>
+    <td align='center' width="190">
+        <img src="https://github.com/Awais-Mansha/Awais-Mansha/blob/main/images/android_studio.png">
+    </td>
+    <td align='center' width="190">
+        <img src="https://github.com/Awais-Mansha/Awais-Mansha/blob/main/images/adobe_p.png" width="60">
+    </td>
+     <td align='center' width="190">
+        <img src="https://github.com/Awais-Mansha/Awais-Mansha/blob/main/images/adobe_i.png" width="100">
+    </td>
+    
+</tr>
 </table>
