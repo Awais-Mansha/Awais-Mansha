@@ -9,7 +9,7 @@
 <table width="100">
 <tr>
     <td align='center' width="190">
-        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2Fdocker&psig=AOvVaw0tOmq76I8Z_IJ3XK5jdav0&ust=1635059836090000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIjlhNn-3_MCFQAAAAAdAAAAABAD" width="60">
+        <img src="https://pbs.twimg.com/profile_images/1273307847103635465/lfVWBmiW_400x400.png" width="60">
     </td>
     <td align='center' width="190">
         <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
