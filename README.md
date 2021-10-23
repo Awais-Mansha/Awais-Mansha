@@ -4,7 +4,7 @@
 - 🔭 I’m currently working as Mobile Application Developer
 - 🌱 I’m currently learning Cross-Platform Application development
 
-<h2><i>💻 Tech Stack</i></h2>
+<h2><i>💻 Tech Skills</i></h2>
 
 <table width="100">
 <tr>
@@ -128,5 +128,38 @@
     </td>
 
     
+</tr>
+<tr>
+         <td align='center' width="190">
+        <h3> Learned from Platform </h3>
+        </td>
+</tr>
+<tr>
+    <td align='center' width="190">
+        <img src="https://github.com/Awais-Mansha/Awais-Mansha/blob/main/images/udacity.png" width="60">
+    </td>
+    <td align='center' width="190">
+        <img src="https://github.com/Awais-Mansha/Awais-Mansha/blob/main/images/udemy.png">
+    </td>
+
+    
+</tr>
+<tr>
+         <td align='center' width="190">
+        <h3> Friends </h3>
+        </td>
+</tr>
+<tr>
+    <td align='center' width="190">
+        <img src="https://github.com/Awais-Mansha/Awais-Mansha/blob/main/images/google.png" width="60">
+    </td>
+    <td align='center' width="190">
+        <img src="https://github.com/Awais-Mansha/Awais-Mansha/blob/main/images/youtube.png">
+    </td>
+
+     <td align='center' width="190">
+        <img src="https://github.com/Awais-Mansha/Awais-Mansha/blob/main/images/stackoverflow.png">
+    </td>
+
 </tr>
 </table>
