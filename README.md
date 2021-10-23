@@ -14,16 +14,16 @@
 </tr>
 <tr>
     <td align='center' width="250">
-        <img src="https://github.com/Awais-Mansha/Awais-Mansha/blob/main/images/java.png" width="60">
+        <img src="https://github.com/Awais-Mansha/Awais-Mansha/blob/main/images/java.png" >
     </td>
     <td align='center' width="250">
         <img src="https://github.com/Awais-Mansha/Awais-Mansha/blob/main/images/kotlin.png">
     </td>
     <td align='center' width="250">
-        <img src="https://github.com/Awais-Mansha/Awais-Mansha/blob/main/images/sql.png" width="60">
+        <img src="https://github.com/Awais-Mansha/Awais-Mansha/blob/main/images/sql.png">
     </td>
      <td align='center' width="250">
-        <img src="https://github.com/Awais-Mansha/Awais-Mansha/blob/main/images/rust.png" width="100">
+        <img src="https://github.com/Awais-Mansha/Awais-Mansha/blob/main/images/rust.png">
     </td>
     
 </tr>
