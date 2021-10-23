@@ -8,7 +8,7 @@
 
 <table width="100">
 <tr>
-       <td align='center' width="250">
+       <td align='center' width="250" height="250">
         <h3> Languages </h3>
         </td>
 </tr>
@@ -59,7 +59,7 @@
 </tr>
 
 <tr>
-         <td align='center' width="250">
+         <td align='center' width="250" height="250">
         <h3> Frameworks </h3>
         </td>
 </tr>
@@ -81,7 +81,7 @@
 
 
 <tr>
-         <td align='center' width="250">
+         <td align='center' width="250" height="250">
         <h3> Development Tools </h3>
         </td>
 </tr>
@@ -116,7 +116,7 @@
     
 </tr>
 <tr>
-         <td align='center' width="250">
+         <td align='center' width="250" height="250">
         <h3> Deployment Tools </h3>
         </td>
 </tr>
@@ -131,7 +131,7 @@
     
 </tr>
 <tr>
-         <td align='center' width="250">
+         <td align='center' width="250" height="250">
         <h3> Learned from Platform </h3>
         </td>
 </tr>
@@ -146,7 +146,7 @@
     
 </tr>
 <tr>
-         <td align='center' width="250">
+         <td align='center' width="250" height="250">
         <h3> Friends </h3>
         </td>
 </tr>
