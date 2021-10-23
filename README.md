@@ -8,7 +8,9 @@
 
 <table width="100">
 <tr>
+       <td align='center' width="190">
         <h3> Languages </h3>
+        </td>
 </tr>
 <tr>
     <td align='center' width="190">
@@ -56,7 +58,9 @@
 </tr>
 
 <tr>
+         <td align='center' width="190">
         <h3> Frameworks </h3>
+        </td>
 </tr>
 <tr>
     <td align='center' width="190">
