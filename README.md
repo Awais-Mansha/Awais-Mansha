@@ -12,16 +12,16 @@
         <img src="https://lilly021.com/wp-content/uploads/2019/09/1_j_zP74-cpvXRcs8dM_pkMQ.jpeg" width="60">
     </td>
     <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
+        <img src="https://blogs.vmware.com/canada/files/2018/07/Kubernetes-logo.png">
     </td>
     <td align='center' width="190">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="60">
+        <img src="https://cdn.vox-cdn.com/thumbor/HFAnEFyhSjQZ6mhTguC1MW_3_VA=/0x0:2040x1560/1820x1213/filters:focal(857x617:1183x943):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/65088839/Android_logo_stacked__RGB_.5.jpg" width="60">
     </td>
      <td align='center' width="190">
-        <img src="https://git-scm.com/images/logos/1color-darkbg@2x.png" width="100">
+        <img src="https://miro.medium.com/max/1400/1*99YiKjwB2TliKVA-yGogNQ.png" width="100">
     </td>
     <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
+        <img src="https://miro.medium.com/max/1400/1*99YiKjwB2TliKVA-yGogNQ.png">
     </td>
 </tr>
 <tr>
