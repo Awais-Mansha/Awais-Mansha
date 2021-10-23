@@ -9,8 +9,7 @@
 <table width="100">
 <tr>
     <td align='center' width="190">
-        <img src="https://pbs.twimg.com/profile_images/1273307847103635465/lfVWBmiW_400x400.png" width="60">
-        <h4>Docker</h4>
+        <img src="https://lilly021.com/wp-content/uploads/2019/09/1_j_zP74-cpvXRcs8dM_pkMQ.jpeg" width="60">
     </td>
     <td align='center' width="190">
         <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
