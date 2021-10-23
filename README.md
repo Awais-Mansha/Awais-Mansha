@@ -8,9 +8,7 @@
 
 <table width="100">
 <tr>
-     <td>
         <h3> Languages </h3>
-     </td>
 </tr>
 <tr>
     <td align='center' width="190">
