@@ -14,7 +14,7 @@
 </tr>
 <tr>
     <td align='center' width="250">
-        <img src="https://github.com/Awais-Mansha/Awais-Mansha/blob/main/images/java.png" >
+        <img src="https://github.com/Awais-Mansha/Awais-Mansha/blob/main/images/java.png" width="250" >
     </td>
     <td align='center' width="250">
         <img src="https://github.com/Awais-Mansha/Awais-Mansha/blob/main/images/kotlin.png">
