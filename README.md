@@ -5,14 +5,8 @@
 - 🌱 I’m currently learning Cross-Platform Application development
 
 <h2><i>💻 Tech Skills</i></h2>
-</br>
 <h3> Languages </h3>
 <table width="100">
-<tr>
-       <td align='center' width="250" height="250">
-      
-        </td>
-</tr>
 <tr>
     <td align='center' width="250">
         <img src="https://github.com/Awais-Mansha/Awais-Mansha/blob/main/images/java.png" width="250" >
@@ -59,13 +53,8 @@
     </td>
 </tr>
 </table>
+<h3> Frameworks </h3>
 <table width="100">
-
-<tr>
-         <td align='center' width="250" height="250">
-        <h3> Frameworks </h3>
-        </td>
-</tr>
 <tr>
     <td align='center' width="250">
         <img src="https://github.com/Awais-Mansha/Awais-Mansha/blob/main/images/spring.svg" >
@@ -81,13 +70,9 @@
     </td>
     
 </tr>
-
-
-<tr>
-         <td align='center' width="250" height="250">
-        <h3> Development Tools </h3>
-        </td>
-</tr>
+</table>
+<h3> Development Tools </h3>
+<table width="100">
 <tr>
     <td align='center' width="250">
         <img src="https://github.com/Awais-Mansha/Awais-Mansha/blob/main/images/xcode.png">
@@ -118,11 +103,10 @@
     </td>
     
 </tr>
-<tr>
-         <td align='center' width="250" height="250">
-        <h3> Deployment Tools </h3>
-        </td>
-</tr>
+</table>
+<h3> Deployment Tools </h3>
+<table width="100">
+
 <tr>
     <td align='center' width="250">
         <img src="https://github.com/Awais-Mansha/Awais-Mansha/blob/main/images/kubernetes.png" >
@@ -133,11 +117,9 @@
 
     
 </tr>
-<tr>
-         <td align='center' width="250" height="250">
-        <h3> Learned from Platform </h3>
-        </td>
-</tr>
+</table>
+<h3> Learned from Platforms </h3>
+<table width="100">
 <tr>
     <td align='center' width="190">
         <img src="https://github.com/Awais-Mansha/Awais-Mansha/blob/main/images/udacity.png">
@@ -148,11 +130,9 @@
 
     
 </tr>
-<tr>
-         <td align='center' width="250" height="250">
-        <h3> Friends </h3>
-        </td>
-</tr>
+</table>
+<h3> Lovely Friends </h3>
+<table width="100">
 <tr>
     <td align='center' width="250">
         <img src="https://github.com/Awais-Mansha/Awais-Mansha/blob/main/images/google.png">
