@@ -5,11 +5,12 @@
 - 🌱 I’m currently learning Cross-Platform Application development
 
 <h2><i>💻 Tech Skills</i></h2>
-
+</br>
+<h3> Languages </h3>
 <table width="100">
 <tr>
        <td align='center' width="250" height="250">
-        <h3> Languages </h3>
+      
         </td>
 </tr>
 <tr>
@@ -57,6 +58,8 @@
         <img src="https://github.com/Awais-Mansha/Awais-Mansha/blob/main/images/android.png">
     </td>
 </tr>
+</table>
+<table width="100">
 
 <tr>
          <td align='center' width="250" height="250">
