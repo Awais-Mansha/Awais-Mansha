@@ -1,8 +1,8 @@
 # Hi there, I'm Awais Mansha
 
 ### I'm a Software Engineer | Mobile Application Developer | Full Stack Developer!
-- 🔭 I’m currently working as Mobile Application Developer
-- 🌱 I’m currently learning Cross-Platform Application development
+- 🔭 I’m currently working as Android Application Developer (Kotlin/Java)
+- 🌱 I’m currently learning Cross-Platform Application development (Flutter)
 
 <h2><i>💻 Tech Skills</i></h2>
 <h3> Languages </h3>
