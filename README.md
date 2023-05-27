@@ -1,29 +1,29 @@
 # Hi there, I'm Awais Mansha
 
-### I'm a Software Engineer | Mobile Application Developer | Full Stack Developer!
+## I'm a Software Engineer | Mobile Application Developer | Full Stack Developer! | Flutter (Cross-Platform) Application Developer
 Hello! I'm Awais Mansha, an experienced Android developer and software engineer dedicated to creating exceptional mobile applications. With a strong background in software development and a deep understanding of Android technologies, I strive to deliver user-friendly and high-performance solutions that meet clients' needs and exceed expectations.
 
 # Experience:
 ### GARA (FRANCE) https://gara.store/
-#### Position: Android Developer (Jan 2023- Present)
+##### Position: Android Developer (Jan 2023- Present)
 - Collaborated with cross-functional teams to develop and maintain high-quality Android applications.
 - Implemented new features, optimized performance, and ensured codebase scalability.
 - Conducted code reviews, identified and resolved bugs, and maintained code quality standards.
 
 ### Native Brains (CA) https://play.google.com/store/apps/details?id=com.app.paybag
-#### Position: Android Developer (Feb 2022 - April2023)
+##### Position: Android Developer (Feb 2022 - April2023)
 - Led the development of a web-based CRM application, coordinating with a team of developers and designers.
 - Designed and implemented RESTful APIs, integrated third-party libraries, and improved system efficiency.
 - Conducted comprehensive testing, debugging, and performance optimization to ensure a robust product.
 
 ### Instant Pickup (UK) https://www.instantpickup.delivery/
-#### Position: Android Developer (Nov 2021 - Feb 2022)
+##### Position: Android Developer (Nov 2021 - Feb 2022)
 - Developed native Android applications for clients, adhering to best practices and user experience guidelines.
 - Collaborated with UI/UX designers to create visually appealing and intuitive interfaces.
 - Integrated backend services and APIs to deliver seamless functionality.
 
-### Magna Food Service (UK - Remote)
-#### Position: Android Developer (Jan 2021- Aug 2021)
+### Magna Food Service (UK) https://play.google.com/store/apps/details?id=com.magnaandroidapp
+##### Position: Android Developer (Jan 2021- Aug 2021)
 - Assisted in the development and testing of web and mobile applications.
 - Contributed to the optimization of database queries, resulting in significant performance improvements.
 - Collaborated with senior engineers to troubleshoot and resolve technical issues.
