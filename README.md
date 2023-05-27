@@ -4,6 +4,11 @@
 - 🔭 I’m currently working as Android Application Developer (Kotlin/Java)
 - 🌱 I’m currently learning Cross-Platform Application development (Flutter)
 
+## Contact:
+- Email: awaismansha1998@gmail.com
+- LinkedIn: https://www.linkedin.com/in/owys
+- Contact: +92 340 2727512
+
 <h2><i>💻 Tech Skills</i></h2>
 <h3> Languages </h3>
 <table width="100">
