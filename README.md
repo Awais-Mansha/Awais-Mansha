@@ -40,9 +40,12 @@ Hello! I'm Awais Mansha, an experienced Android developer and software engineer 
 
 ## Contact:
 - Email: awaismansha1998@gmail.com
+- Contact: +92-340-2727512
 - LinkedIn: https://www.linkedin.com/in/owys
-- Contact: +92 340 2727512
 - Behance: https://www.behance.net/owys
+- Fiverr: https://www.fiverr.com/owys_m
+- Upwork: https://www.upwork.com/freelancers/~01d78c2074d0e278ff
+- Youtube: https://www.youtube.com/channel/UC3OFxO2oySES5OrbY7gjp2A
 
 
 
