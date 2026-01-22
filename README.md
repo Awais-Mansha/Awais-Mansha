@@ -37,7 +37,7 @@ I thrive in **remote, collaborative environments** and take ownership of feature
 - Optimized app performance, reduced crash rates by 30%, and improved CI/CD pipelines using GitLab
 - Collaborated with cross-functional teams (backend, product, design) in an agile, remote environment
 
-### **Android Engineer** @ [Native Brains] _(Remote)_
+### **Android Engineer** @ [Native Brains] _(Remote - Karachi)_
 **Mar 2022 – Jan 2023** | Flutter • Android • Real-time Video • E-commerce
 
 - Contributed to **Paybag** – a live video shopping platform enabling real-time product demonstrations and purchases
@@ -61,7 +61,19 @@ I thrive in **remote, collaborative environments** and take ownership of feature
 
 ---
 
-## 🛠️ Technical Stack
+## 🔧 Technical Specializations
+
+| **Domain** | **Technologies & Expertise** |
+|------------|-----------------------------|
+| **Mobile Development** | Kotlin, Jetpack Compose, Flutter, Android SDK |
+| **Real-time Systems** | WebSocket, WebRTC, Firebase Realtime Database |
+| **Payment Integration** | Stripe, Subscriptions, Digital Wallets, Payment Gateways |
+| **Backend & APIs** | Spring Boot, REST APIs, GraphQL, Django |
+| **Cloud & DevOps** | AWS, Docker, Kubernetes, GitLab CI/CD |
+| **Architecture** | MVVM, MVI, Clean Architecture, Modular Design |
+| **Testing & Quality** | Unit Testing, UI Testing, Performance Optimization |
+
+---
 
 ### **Mobile Development**
 <table>
@@ -89,13 +101,6 @@ I thrive in **remote, collaborative environments** and take ownership of feature
   </tr>
 </table>
 
-### **Architecture & Tools**
-- **Architectures:** MVVM, MVI, Clean Architecture
-- **Android Jetpack:** Compose, Room, Navigation, ViewModel, LiveData
-- **Dependency Injection:** Dagger Hilt, Koin
-- **Async Programming:** Coroutines, Flow, RxJava
-- **Database:** Room, Realm, SQLite
-- **Testing:** Unit Tests, Espresso
 
 ### **Backend & APIs**
 <table>
@@ -174,22 +179,88 @@ I thrive in **remote, collaborative environments** and take ownership of feature
 
 ## 🏆 Featured Projects
 
-### **[GARA Entertainment Platform]**
-> Digital entertainment platform with 1M+ downloads in African markets
-- **Tech:** Kotlin, Jetpack Compose, Payment Gateway Integration
-- **Features:** Subscription system, offline content, games, eBooks, webtoons
+### **[GARA Digital Entertainment Platform]**
+> **Android Engineer** | Scaling entertainment platform for African markets (1M+ downloads)
+- **Tech Stack:** Kotlin, Jetpack Compose, MVVM, Firebase, GitLab CI/CD
+- **Key Achievements:**
+  - Built **Gara Pass** subscription system with daily/weekly/monthly plans
+  - Integrated multiple **African payment gateways** for regional monetization
+  - Developed content workflows for games, eBooks, comics, and webtoons
+  - Implemented offline content access and in-app playback systems
+  - Optimized app performance, reducing crash rates by 30%
 
-### **[Paykko - Digital Tontine]**
-> Flutter-based financial platform for group savings and payouts
-- **Tech:** Flutter, Dart, Real-time Notifications, Secure Transactions
-- **Features:** Wallet management, automated payouts, identity verification
+### **[Paykko - Digital Tontine & Wallet]**
+> **Flutter Developer** | FinTech platform for group savings and digital banking
+- **Tech Stack:** Flutter, Dart, REST APIs, Real-time Notifications
+- **Key Features:**
+  - Digital tontine management with automated payout sequencing
+  - Secure wallet system for deposits, withdrawals, and balance tracking
+  - Identity verification integration for enhanced platform security
+  - Real-time notifications for transaction transparency
+  - Cross-platform compatibility (Android & iOS)
+
+### **[Paybag - Live Video Shopping]**
+> **Android/Flutter Developer** | Real-time video commerce platform
+- **Tech Stack:** Flutter, Android, WebRTC, Stripe, Firebase
+- **Key Features:**
+  - Live video sessions between sellers and buyers
+  - Real-time product selection and screenshot capture during calls
+  - Seamless cart integration without interrupting active video sessions
+  - Secure checkout with Stripe payment integration
+  - Order confirmation and home delivery tracking systems
+
+### **[IslamForever - Islamic Media Platform]**
+> **Lead Flutter Developer** | Large-scale religious content application
+- **Tech Stack:** Flutter, Dart, Video Streaming, Firebase
+- **Key Features:**
+  - Live TV streaming and on-demand video playback
+  - Children's cartoons, Islamic programs, and recorded lectures
+  - Madani Channel broadcast integration
+  - Advanced search and dynamic content architecture
+  - Scalable backend-driven content updates
+
+### **[Instant Pickup Logistics Platform]**
+> **Android Developer** | On-demand delivery service
+- **Tech Stack:** Android, Google Maps API, Stripe, Firebase
+- **Key Features:**
+  - Dual apps: **Driver App** (delivery management) & **Customer App** (booking)
+  - Real-time GPS tracking and route optimization
+  - In-app chat and driver rating systems
+  - Stripe integration for secure payments
+  - Order lifecycle management with real-time status updates
+
+### **[Magna Food Service Suite]**
+> **Android Developer** | Internal operations management system
+- **Tech Stack:** Android (Java), Spring Boot, AWS, Docker
+- **Key Features:**
+  - **Magna Warehouse App:** Inventory control and pallet management
+  - **Magna Route App:** Delivery assignment and driver tracking
+  - REST API integration with Spring Boot backend
+  - AWS deployment using Docker containers
+  - Notification systems for order updates
 
 ### **[Smart Diagnosis System]**
-> Final Year Project: End-to-end health diagnosis system
-- **Tech:** Spring Boot, React, Angular, Android, Python (Django)
-- **Features:** Hardware integration, health records, AWS deployment with Docker/K8s
+> **Full Stack Developer** | Final Year Project - Health tech solution
+- **Tech Stack:** Spring Boot, React, Angular, Android, Python (Django)
+- **Key Features:**
+  - End-to-end health diagnosis with hardware integration
+  - Spring Boot backend with REST APIs
+  - React-based kiosk interface
+  - Angular admin dashboard
+  - Android app for health records access
+  - Raspberry Pi sensor integration using Django
+  - Full AWS deployment with Docker & Kubernetes
+
+### **Additional Projects & Contributions**
+- **Real-time Chat Systems** with WebSocket integration
+- **Audio/Video Communication** features using WebRTC
+- **Push Notification Systems** with Firebase Cloud Messaging
+- **Third-party SDK Integrations** for analytics and monitoring
+- **CI/CD Pipeline Setup** for automated builds and testing
+- **Unit Testing Suites** for critical application components
 
 ---
+
 
 ## 📫 Let's Connect
 
