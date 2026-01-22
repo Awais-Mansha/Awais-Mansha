@@ -115,10 +115,6 @@ I thrive in **remote, collaborative environments** and take ownership of feature
       <img src="https://img.icons8.com/color/48/null/firebase.png" width="48" height="48" alt="Firebase" />
       <br>Firebase
     </td>
-    <td align="center" width="96">
-      <img src="https://img.icons8.com/color/48/null/rest-api.png" width="48" height="48" alt="REST API" />
-      <br>REST API
-    </td>
   </tr>
 </table>
 
@@ -171,13 +167,7 @@ I thrive in **remote, collaborative environments** and take ownership of feature
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Awais-Mansha&layout=compact&langs_count=8&theme=dark&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Awais-Mansha&theme=dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Awais-Mansha&theme=onedark&no-frame=true&row=2&column=4" />
-</p>
+[![@owys_m's Holopin board](https://holopin.io/api/user/board?user=owys_m)](https://holopin.io/@owys_m)
 
 ---
 
@@ -231,18 +221,3 @@ I'm always open to discussing **new opportunities, collaborations, or interestin
 </p>
 
 <p align="center">⭐️ <i>Thank you for visiting my profile!</i> ⭐️</p>
-
-<h2><i>⚙️ GitHub Analytics</i></h2>
-
-
-<p align="center">
-<a href="https://github.com/Awais-Mansha">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Awais-Mansha&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Awais-Mansha&layout=compact&langs_count=8&theme=dark"/>
-</a>
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Awais-Mansha&show_icons=true&locale=en&layout=demo&theme=dark&hide_border=true" />
-</p>
-</p>
-
-
-[![@owys_m's Holopin board](https://holopin.io/api/user/board?user=owys_m)](https://holopin.io/@owys_m)
